@@ -47,3 +47,54 @@ D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.exe
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources

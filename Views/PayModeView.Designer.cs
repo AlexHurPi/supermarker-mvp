@@ -164,6 +164,7 @@
             // 
             this.DgPayMode.AllowUserToAddRows = false;
             this.DgPayMode.AllowUserToDeleteRows = false;
+            this.DgPayMode.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DgPayMode.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DgPayMode.Location = new System.Drawing.Point(15, 68);
             this.DgPayMode.Name = "DgPayMode";
