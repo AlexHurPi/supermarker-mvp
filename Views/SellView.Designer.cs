@@ -135,7 +135,7 @@
             this.tabPageSellList.Location = new System.Drawing.Point(4, 24);
             this.tabPageSellList.Name = "tabPageSellList";
             this.tabPageSellList.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageSellList.Size = new System.Drawing.Size(918, 683);
+            this.tabPageSellList.Size = new System.Drawing.Size(1601, 683);
             this.tabPageSellList.TabIndex = 0;
             this.tabPageSellList.Text = "Sell List";
             this.tabPageSellList.UseVisualStyleBackColor = true;

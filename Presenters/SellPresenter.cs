@@ -37,6 +37,7 @@ namespace Supermarket_mvp.Presenters
 
         private void SaveSell(object? sender, EventArgs e)
         {
+            
             var sell = new SellModel();
             sell.Id = Convert.ToInt32(view.Sell_Id);
             sell.CustomerId = Convert.ToInt32(view.Sell_CustomerId);

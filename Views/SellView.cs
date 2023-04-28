@@ -74,7 +74,8 @@ namespace Supermarket_mvp.Views
                 tabControl1.TabPages.Remove(tabPageSellList);
                 tabControl1.TabPages.Add(tabPageSellDetail);
                 tabPageSellDetail.Text = "Edit Sell";
-                
+                txtSellTotal.ReadOnly= false;
+
                 string sqlConnectionString = Settings.Default.SqlConnection;
                 CustomerRepository customers = new CustomerRepository(sqlConnectionString);
                 DgSellCustomers.DataSource = customers.GetAll();
@@ -89,19 +90,25 @@ namespace Supermarket_mvp.Views
 
             BtnSave.Click += delegate
             {
-                SaveEvent?.Invoke(this, EventArgs.Empty);
-
-                if (isSuccessful)
+                if (txtSellTotal.Text != "" || txtSellObservation.Text != "")
                 {
-                    tabControl1.TabPages.Remove(tabPageSellDetail);
-                    tabControl1.TabPages.Add(tabPageSellList);
+                    SaveEvent?.Invoke(this, EventArgs.Empty);
+
+                    if (isSuccessful)
+                    {
+                        tabControl1.TabPages.Remove(tabPageSellDetail);
+                        tabControl1.TabPages.Add(tabPageSellList);
+                    }
+                    MessageBox.Show(Message);
+
+                    DgSellCustomers.DefaultCellStyle.BackColor = SystemColors.Window;
+                    DgSellProducts.DefaultCellStyle.BackColor = SystemColors.Window;
+                    DgSellPayMode.DefaultCellStyle.BackColor = SystemColors.Window;
                 }
-                MessageBox.Show(Message);
-
-                DgSellCustomers.DefaultCellStyle.BackColor = SystemColors.Window;
-                DgSellProducts.DefaultCellStyle.BackColor = SystemColors.Window;
-                DgSellPayMode.DefaultCellStyle.BackColor = SystemColors.Window;
-
+                else
+                {
+                    MessageBox.Show("You must fill all fields", "Warning");
+                }
             };
 
             BtnCancel.Click += delegate
