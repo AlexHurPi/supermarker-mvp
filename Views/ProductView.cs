@@ -11,18 +11,18 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Supermarket_mvp.Views
 {
-    public partial class PayModeView : Form, IPayModeView
+    public partial class ProductView : Form, IProductView
     {
         private bool isEdit;
         private bool isSuccesful;
         private string message;
-
-        public PayModeView()
+        int numero;
+        public ProductView()
         {
             InitializeComponent();
             AssociateAndRaiseViewEvents();
 
-            tabControl1.TabPages.Remove(tabPagePayModeDetail);
+            tabControl1.TabPages.Remove(tabPageProductDetail);
 
             BtnClose.Click += delegate { this.Close(); };
         }
@@ -43,9 +43,9 @@ namespace Supermarket_mvp.Views
             {
                 AddNewEvent?.Invoke(this, EventArgs.Empty);
 
-                tabControl1.TabPages.Remove(tabPagePayModeList);
-                tabControl1.TabPages.Add(tabPagePayModeDetail);
-                tabPagePayModeDetail.Text = "Add New Pay Mode";
+                tabControl1.TabPages.Remove(tabPageProductList);
+                tabControl1.TabPages.Add(tabPageProductDetail);
+                tabPageProductDetail.Text = "Add New Product";
 
             };
 
@@ -53,9 +53,9 @@ namespace Supermarket_mvp.Views
             {
                 EditEvent?.Invoke(this, EventArgs.Empty);
 
-                tabControl1.TabPages.Remove(tabPagePayModeList);
-                tabControl1.TabPages.Add(tabPagePayModeDetail);
-                tabPagePayModeDetail.Text = "Edit Pay Mode";
+                tabControl1.TabPages.Remove(tabPageProductList);
+                tabControl1.TabPages.Add(tabPageProductDetail);
+                tabPageProductDetail.Text = "Edit Product";
             };
 
             BtnSave.Click += delegate
@@ -64,8 +64,8 @@ namespace Supermarket_mvp.Views
 
                 if (isSuccesful)
                 {
-                    tabControl1.TabPages.Remove(tabPagePayModeDetail);
-                    tabControl1.TabPages.Add(tabPagePayModeList);
+                    tabControl1.TabPages.Remove(tabPageProductDetail);
+                    tabControl1.TabPages.Add(tabPageProductList);
                 }
                 MessageBox.Show(Message);
             };
@@ -74,14 +74,14 @@ namespace Supermarket_mvp.Views
             {
                 CancelEvent?.Invoke(this, EventArgs.Empty);
 
-                tabControl1.TabPages.Remove(tabPagePayModeDetail);
-                tabControl1.TabPages.Add(tabPagePayModeList);
+                tabControl1.TabPages.Remove(tabPageProductDetail);
+                tabControl1.TabPages.Add(tabPageProductList);
             };
 
             BtnDelete.Click += delegate
             {
                 var result = MessageBox.Show(
-                    "Are you sure you want to delete the selected Pay Mode",
+                    "Are you sure you want to delete the selected Product",
                     "Warning",
                     MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
 
@@ -91,23 +91,36 @@ namespace Supermarket_mvp.Views
                     MessageBox.Show(Message);
                 }
             };
-
         }
 
-        public string PayModeId
+        public string ProductId
         {
-            get { return TxtPayModeId.Text; }
-            set { TxtPayModeId.Text = value; }
+            get { return TxtProductId.Text; }
+            set { TxtProductId.Text = value; }
         }
-        public string PayModeName
+        public string ProductName
         {
-            get { return TxtPayModeName.Text; }
-            set { TxtPayModeName.Text = value; }
+            get { return TxtProductName.Text; }
+            set { TxtProductName.Text = value; }
         }
-        public string PayModeObservation
+        public string ProductObservation
         {
-            get { return TxtPayModeObservation.Text; }
-            set { TxtPayModeObservation.Text = value; }
+            get { return TxtProductObservation.Text; }
+            set { TxtProductObservation.Text = value; }
+        }
+
+        public string ProductPrice
+        {
+            
+            get
+            {
+                if (TxtProductPrice.Text != ""&& int.TryParse(TxtProductPrice.Text, out numero))
+                {
+                    return TxtProductPrice.Text;
+                }
+                return "";
+            }
+            set { TxtProductPrice.Text = value; }
         }
         public string SearchValue
         {
@@ -130,7 +143,6 @@ namespace Supermarket_mvp.Views
             set { message = value; }
         }
 
-
         public event EventHandler SearchEvent;
         public event EventHandler AddNewEvent;
         public event EventHandler EditEvent;
@@ -139,18 +151,18 @@ namespace Supermarket_mvp.Views
         public event EventHandler CancelEvent;
         public event EventHandler SaveEvent;
 
-        public void SetPayModeListBildingSource(BindingSource payModeList)
+        public void SetProductListBildingSource(BindingSource productList)
         {
-            DgPayMode.DataSource = payModeList;
+            DgProduct.DataSource = productList;
         }
 
-        private static PayModeView instance;
+        private static ProductView instance;
 
-        public static PayModeView GetInstance(Form parentContainer)
+        public static ProductView GetInstance(Form parentContainer)
         {
             if (instance == null || instance.IsDisposed)
             {
-                instance = new PayModeView();
+                instance = new ProductView();
                 instance.MdiParent = parentContainer;
 
                 instance.FormBorderStyle = FormBorderStyle.None;
@@ -166,5 +178,6 @@ namespace Supermarket_mvp.Views
             }
             return instance;
         }
+
     }
 }

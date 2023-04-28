@@ -49,9 +49,9 @@
               "target": "Package",
               "version": "[5.1.1, )"
             },
-            "System.Data.SqlClient": {
+            "MongoDB.Driver.Core": {
               "target": "Package",
-              "version": "[4.8.5, )"
+              "version": "[2.19.1, )"
             }
           },
           "imports": [

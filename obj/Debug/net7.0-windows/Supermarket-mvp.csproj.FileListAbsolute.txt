@@ -1,26 +1,201 @@
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.exe
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\AWSSDK.Core.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\DnsClient.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\MongoDB.Bson.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\MongoDB.Driver.Core.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\SharpCompress.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\Snappier.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\ZstdSharp.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Administrador\source\repos\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProductView.resources
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CustomerView.resources
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProviderView.resources
+C:\Users\Administrador\source\repos\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CategorieView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.exe
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\AWSSDK.Core.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\AWSSDK.SecurityToken.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Azure.Core.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Azure.Identity.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\DnsClient.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\MongoDB.Bson.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\MongoDB.Driver.Core.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\MongoDB.Libmongocrypt.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\SharpCompress.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Snappier.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\System.Memory.Data.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\ZstdSharp.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\linux\native\libmongocrypt.so
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\osx\native\libmongocrypt.dylib
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win\native\mongocrypt.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CategorieView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CustomerView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProductView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProviderView.resources
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
+F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.exe
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\AWSSDK.Core.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\AWSSDK.SecurityToken.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Azure.Core.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Azure.Identity.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\DnsClient.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\MongoDB.Bson.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\MongoDB.Driver.Core.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\MongoDB.Libmongocrypt.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\SharpCompress.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\Snappier.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\System.Memory.Data.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\ZstdSharp.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\linux\native\libmongocrypt.so
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\osx\native\libmongocrypt.dylib
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win\native\mongocrypt.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CategorieView.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CustomerView.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProductView.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProviderView.resources
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
+G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3A\obj\Debug\net7.0-windows\Supermarket_mvp.Views.SellView.resources
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.exe
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\AWSSDK.Core.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\AWSSDK.SecurityToken.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Azure.Core.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\DnsClient.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
@@ -30,124 +205,42 @@ D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\MongoDB.Bson.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\MongoDB.Driver.Core.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\MongoDB.Libmongocrypt.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\SharpCompress.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\Snappier.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\System.Memory.Data.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\ZstdSharp.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\native\mongocrypt.dll
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CategorieView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.CustomerView.resources
 D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.exe
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Azure.Core.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Azure.Identity.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.Memory.Data.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
-D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp - copia\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
-F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.dll
-F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
-F:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.exe
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll.config
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.deps.json
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.runtimeconfig.json
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Supermarket-mvp.pdb
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Azure.Core.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Azure.Identity.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\System.Memory.Data.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.AssemblyReference.cache
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Properties.Resources.resources
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
-G:\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIO 3\Supermarket-mvp\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.PayModeView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProductView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.ProviderView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.SellView.resources
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.GenerateResource.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfoInputs.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.AssemblyInfo.cs
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CoreCompileInputs.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.csproj.CopyComplete
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\refint\Supermarket-mvp.dll
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.pdb
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\Supermarket-mvp.genruntimeconfig.cache
+D:\CURSOS\CECEP\3 SEMESTRE\LENGUAJE INFORMATICO\LABORATORIOS\Supermarket-mvp\obj\Debug\net7.0-windows\ref\Supermarket-mvp.dll
