@@ -1,27 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Supermarket_mvp.Models;
 using Supermarket_mvp.Views;
-using Microsoft.Data.SqlClient;
-using Microsoft.Data;
+using Supermarket_mvp.Models;
 using static Azure.Core.HttpHeader;
+using System.Drawing;
 
 namespace Supermarket_mvp.Presenters
 {
     internal class PayModePresenter
     {
-        private IpayModeView view;
+        private IPayModeView view;
         private IPayModeRepository repository;
         private BindingSource payModeBindingSource;
         private IEnumerable<PayModeModel> payModeList;
 
-        public PayModePresenter(IpayModeView view, IPayModeRepository repository)
+        public PayModePresenter(IPayModeView view, IPayModeRepository repository)
         {
             this.payModeBindingSource = new BindingSource();
+
             this.view = view;
             this.repository = repository;
 
@@ -34,12 +33,13 @@ namespace Supermarket_mvp.Presenters
 
             this.view.SetPayModeListBildingSource(payModeBindingSource);
 
-            loadAllPayModeList();
+            LoadAllPayModeList();
 
             this.view.Show();
+
         }
 
-        private void loadAllPayModeList()
+        private void LoadAllPayModeList()
         {
             payModeList = repository.GetAll();
             payModeBindingSource.DataSource = payModeList;
@@ -60,7 +60,7 @@ namespace Supermarket_mvp.Presenters
             try
             {
                 new Common.ModelDataValidation().Validate(payMode);
-                if (view.IsEdit)
+                if(view.IsEdit)
                 {
                     repository.Edit(payMode);
                     view.Message = "PayMode edited successfuly";
@@ -70,18 +70,17 @@ namespace Supermarket_mvp.Presenters
                     repository.Add(payMode);
                     view.Message = "PayMode added successfuly";
                 }
-                view.IsSuccessful = true;
-                loadAllPayModeList();
+                view.IsSuccesful = true;
+                LoadAllPayModeList();
                 CleanViewFields();
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
-                //si ocurre una excepcion se configura IsSuccessful en false
-                //y la propiedad message de la vista se asigna el mensaje de la exception
-                view.IsSuccessful = false;
+                view.IsSuccesful = false;
                 view.Message = ex.Message;
             }
         }
+
         private void CleanViewFields()
         {
             view.PayModeId = "0";
@@ -89,21 +88,20 @@ namespace Supermarket_mvp.Presenters
             view.PayModeObservation = "";
         }
 
-
         private void DeleteSelectedPayMode(object? sender, EventArgs e)
         {
             try
             {
-                var payMode = (PayModeModel)payModeBindingSource.Current;
+                var payMode = (PayModeModel) payModeBindingSource.Current;
 
                 repository.Delete(payMode.Id);
-                view.IsSuccessful = true;
+                view.IsSuccesful = true;
                 view.Message = "Pay Mode deleted successfully";
-                loadAllPayModeList();
+                LoadAllPayModeList();
             }
-            catch (Exception ex)
+            catch (Exception ex) 
             {
-                view.IsSuccessful = false;
+                view.IsSuccesful = false;
                 view.Message = "An error ocurred, could ot delete pay mode";
             }
         }
@@ -121,25 +119,21 @@ namespace Supermarket_mvp.Presenters
 
         private void AddNewPayMode(object? sender, EventArgs e)
         {
-           view.IsEdit = false;
+            view.IsEdit = false;
         }
 
         private void SearchPayMode(object? sender, EventArgs e)
         {
             bool emptyValue = string.IsNullOrWhiteSpace(this.view.SearchValue);
-            if (emptyValue==false)
+            if (emptyValue == false)
             {
-                payModeList= repository.GetByValue(this.view.SearchValue);
+                payModeList = repository.GetByValue(this.view.SearchValue);
             }
             else
             {
-                payModeList=repository.GetAll();
+                payModeList = repository.GetAll();
             }
             payModeBindingSource.DataSource = payModeList;
         }
-
-       
-
-
     }
 }
