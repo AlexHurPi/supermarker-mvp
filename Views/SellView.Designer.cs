@@ -86,7 +86,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(990, 74);
+            this.panel1.Size = new System.Drawing.Size(948, 74);
             this.panel1.TabIndex = 0;
             // 
             // pictureBox1
@@ -119,7 +119,7 @@
             this.tabControl1.Location = new System.Drawing.Point(7, 80);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(981, 711);
+            this.tabControl1.Size = new System.Drawing.Size(939, 732);
             this.tabControl1.TabIndex = 4;
             // 
             // tabPageSellList
@@ -135,7 +135,7 @@
             this.tabPageSellList.Location = new System.Drawing.Point(4, 24);
             this.tabPageSellList.Name = "tabPageSellList";
             this.tabPageSellList.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageSellList.Size = new System.Drawing.Size(973, 683);
+            this.tabPageSellList.Size = new System.Drawing.Size(931, 704);
             this.tabPageSellList.TabIndex = 0;
             this.tabPageSellList.Text = "Sell List";
             this.tabPageSellList.UseVisualStyleBackColor = true;
@@ -144,7 +144,7 @@
             // 
             this.BtnClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BtnClose.Image = global::Supermarket_mvp.Properties.Resources.cerrar;
-            this.BtnClose.Location = new System.Drawing.Point(490, 263);
+            this.BtnClose.Location = new System.Drawing.Point(737, 263);
             this.BtnClose.Name = "BtnClose";
             this.BtnClose.Size = new System.Drawing.Size(180, 59);
             this.BtnClose.TabIndex = 19;
@@ -154,7 +154,7 @@
             // 
             this.BtnDelete.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BtnDelete.Image = global::Supermarket_mvp.Properties.Resources.delete;
-            this.BtnDelete.Location = new System.Drawing.Point(490, 199);
+            this.BtnDelete.Location = new System.Drawing.Point(737, 199);
             this.BtnDelete.Name = "BtnDelete";
             this.BtnDelete.Size = new System.Drawing.Size(180, 58);
             this.BtnDelete.TabIndex = 18;
@@ -164,7 +164,7 @@
             // 
             this.BtnEdit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BtnEdit.Image = global::Supermarket_mvp.Properties.Resources.edit;
-            this.BtnEdit.Location = new System.Drawing.Point(490, 134);
+            this.BtnEdit.Location = new System.Drawing.Point(737, 134);
             this.BtnEdit.Name = "BtnEdit";
             this.BtnEdit.Size = new System.Drawing.Size(180, 59);
             this.BtnEdit.TabIndex = 17;
@@ -174,10 +174,11 @@
             // 
             this.BtnNew.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BtnNew.Image = global::Supermarket_mvp.Properties.Resources._new;
-            this.BtnNew.Location = new System.Drawing.Point(490, 69);
+            this.BtnNew.Location = new System.Drawing.Point(737, 69);
             this.BtnNew.Name = "BtnNew";
             this.BtnNew.Size = new System.Drawing.Size(180, 59);
             this.BtnNew.TabIndex = 16;
+            this.BtnNew.Text = "   ";
             this.BtnNew.UseVisualStyleBackColor = true;
             // 
             // DgSell
@@ -193,17 +194,18 @@
             this.DgSell.Name = "DgSell";
             this.DgSell.ReadOnly = true;
             this.DgSell.RowTemplate.Height = 25;
-            this.DgSell.Size = new System.Drawing.Size(471, 253);
+            this.DgSell.Size = new System.Drawing.Size(718, 629);
             this.DgSell.TabIndex = 3;
             // 
             // BtnSearch
             // 
             this.BtnSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BtnSearch.Image = global::Supermarket_mvp.Properties.Resources.search_small;
-            this.BtnSearch.Location = new System.Drawing.Point(440, 23);
+            this.BtnSearch.Location = new System.Drawing.Point(687, 23);
             this.BtnSearch.Name = "BtnSearch";
             this.BtnSearch.Size = new System.Drawing.Size(44, 40);
             this.BtnSearch.TabIndex = 2;
+            this.BtnSearch.Text = "                                   ";
             this.BtnSearch.UseVisualStyleBackColor = true;
             // 
             // label11
@@ -223,7 +225,7 @@
             this.txtSearch.Location = new System.Drawing.Point(13, 33);
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.PlaceholderText = "Data to search";
-            this.txtSearch.Size = new System.Drawing.Size(421, 23);
+            this.txtSearch.Size = new System.Drawing.Size(668, 23);
             this.txtSearch.TabIndex = 0;
             // 
             // tabPageSellDetail
@@ -257,7 +259,7 @@
             this.tabPageSellDetail.Location = new System.Drawing.Point(4, 24);
             this.tabPageSellDetail.Name = "tabPageSellDetail";
             this.tabPageSellDetail.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageSellDetail.Size = new System.Drawing.Size(939, 683);
+            this.tabPageSellDetail.Size = new System.Drawing.Size(931, 704);
             this.tabPageSellDetail.TabIndex = 1;
             this.tabPageSellDetail.Text = "Sell Detail";
             this.tabPageSellDetail.UseVisualStyleBackColor = true;
@@ -529,7 +531,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(990, 787);
+            this.ClientSize = new System.Drawing.Size(948, 808);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.panel1);
             this.Name = "SellView";
