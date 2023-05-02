@@ -267,7 +267,7 @@
             // BtnChooseAnotherPay
             // 
             this.BtnChooseAnotherPay.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.BtnChooseAnotherPay.Location = new System.Drawing.Point(322, 401);
+            this.BtnChooseAnotherPay.Location = new System.Drawing.Point(322, 326);
             this.BtnChooseAnotherPay.Name = "BtnChooseAnotherPay";
             this.BtnChooseAnotherPay.Size = new System.Drawing.Size(137, 40);
             this.BtnChooseAnotherPay.TabIndex = 31;
@@ -278,7 +278,7 @@
             // BtnChooseAnother
             // 
             this.BtnChooseAnother.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.BtnChooseAnother.Location = new System.Drawing.Point(319, 180);
+            this.BtnChooseAnother.Location = new System.Drawing.Point(319, 143);
             this.BtnChooseAnother.Name = "BtnChooseAnother";
             this.BtnChooseAnother.Size = new System.Drawing.Size(137, 40);
             this.BtnChooseAnother.TabIndex = 30;
@@ -289,7 +289,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(465, 620);
+            this.button2.Location = new System.Drawing.Point(465, 515);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(127, 40);
             this.button2.TabIndex = 29;
@@ -301,7 +301,7 @@
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label13.Location = new System.Drawing.Point(792, 617);
+            this.label13.Location = new System.Drawing.Point(792, 512);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(64, 17);
             this.label13.TabIndex = 28;
@@ -309,7 +309,7 @@
             // 
             // txtSubtotal
             // 
-            this.txtSubtotal.Location = new System.Drawing.Point(792, 637);
+            this.txtSubtotal.Location = new System.Drawing.Point(792, 532);
             this.txtSubtotal.Name = "txtSubtotal";
             this.txtSubtotal.ReadOnly = true;
             this.txtSubtotal.Size = new System.Drawing.Size(119, 23);
@@ -318,7 +318,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(322, 620);
+            this.button1.Location = new System.Drawing.Point(322, 515);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(127, 40);
             this.button1.TabIndex = 26;
@@ -330,7 +330,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label12.Location = new System.Drawing.Point(598, 617);
+            this.label12.Location = new System.Drawing.Point(598, 512);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(116, 17);
             this.label12.TabIndex = 25;
@@ -338,7 +338,7 @@
             // 
             // txtQuantity
             // 
-            this.txtQuantity.Location = new System.Drawing.Point(650, 637);
+            this.txtQuantity.Location = new System.Drawing.Point(650, 532);
             this.txtQuantity.Name = "txtQuantity";
             this.txtQuantity.Size = new System.Drawing.Size(69, 23);
             this.txtQuantity.TabIndex = 24;
@@ -462,10 +462,10 @@
             // 
             this.DgSellPayMode.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DgSellPayMode.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DgSellPayMode.Location = new System.Drawing.Point(322, 247);
+            this.DgSellPayMode.Location = new System.Drawing.Point(322, 210);
             this.DgSellPayMode.Name = "DgSellPayMode";
             this.DgSellPayMode.RowTemplate.Height = 25;
-            this.DgSellPayMode.Size = new System.Drawing.Size(460, 150);
+            this.DgSellPayMode.Size = new System.Drawing.Size(460, 115);
             this.DgSellPayMode.TabIndex = 11;
             this.DgSellPayMode.Click += new System.EventHandler(this.DgSellPayMode_Click);
             // 
@@ -475,11 +475,11 @@
             this.DgSellProducts.AllowUserToDeleteRows = false;
             this.DgSellProducts.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DgSellProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DgSellProducts.Location = new System.Drawing.Point(322, 465);
+            this.DgSellProducts.Location = new System.Drawing.Point(322, 389);
             this.DgSellProducts.Name = "DgSellProducts";
             this.DgSellProducts.ReadOnly = true;
             this.DgSellProducts.RowTemplate.Height = 25;
-            this.DgSellProducts.Size = new System.Drawing.Size(589, 150);
+            this.DgSellProducts.Size = new System.Drawing.Size(589, 122);
             this.DgSellProducts.TabIndex = 10;
             this.DgSellProducts.Click += new System.EventHandler(this.DgSellProducts_Click);
             // 
@@ -493,7 +493,7 @@
             this.DgSellCustomers.Name = "DgSellCustomers";
             this.DgSellCustomers.ReadOnly = true;
             this.DgSellCustomers.RowTemplate.Height = 25;
-            this.DgSellCustomers.Size = new System.Drawing.Size(463, 150);
+            this.DgSellCustomers.Size = new System.Drawing.Size(463, 113);
             this.DgSellCustomers.TabIndex = 9;
             this.DgSellCustomers.Click += new System.EventHandler(this.DgSellCustomers_Click);
             // 
@@ -511,7 +511,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(319, 222);
+            this.label5.Location = new System.Drawing.Point(319, 185);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(150, 21);
             this.label5.TabIndex = 8;
@@ -521,7 +521,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(319, 442);
+            this.label3.Location = new System.Drawing.Point(319, 367);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(141, 21);
             this.label3.TabIndex = 6;
